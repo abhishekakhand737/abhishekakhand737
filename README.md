@@ -20,7 +20,7 @@
 An AI & Data Science student focused on building a strong foundation in Machine Learning, Data Analysis, and Python development. I'm actively learning core ML concepts, practicing data handling and analysis, and working on small projects to sharpen my problem-solving skills. I use tools like NumPy, Pandas, Matplotlib, Seaborn, Jupyter, and Streamlit to explore and visualize data, with a focus on continuous, step-by-step growth.
 </p>
 <div align="center">
- <img align="right" alt="coding" width="120" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
+ <img align="right" alt="coding" width="105" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
 <!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3000,50:1a1a00,100:0d0d0d&height=200&section=header&text=Abhishek+Akhand&fontSize=40&fontColor=FFD600&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Data+Analyst%20%7C%20Python%20Developer&descAlignY=58&descColor=64b5f6&animation=fadeIn" />
 <!-- TYPING SVG -->
