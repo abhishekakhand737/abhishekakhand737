@@ -5,30 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD600&center=true&vCenter=true&width=600&lines=Interested+in+ML+%26+Data+Analytics;Python+%7C+NumPy+%7C+Pandas+%7C+Streamlit;Learning+one+model+at+a+time;Turning+data+into+insights" alt="Typing SVG" />
 <br/>
 </div>
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 <div align="center">
@@ -39,14 +15,7 @@
 
 <p align="center">
 An AI & Data Science student focused on building a strong foundation in Machine Learning, Data Analysis, and Python development. I'm actively learning core ML concepts, practicing data handling and analysis, and working on small projects to sharpen my problem-solving skills. I use tools like NumPy, Pandas, Matplotlib, Seaborn, Jupyter, and Streamlit to explore and visualize data, with a focus on continuous, step-by-step growth.
-</p>
-
-<img align="right" alt="coding" width="105" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
-
-
-
-
-
+</p> <img align="right" alt="coding" width="105" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
 ---
 
 <h2 align="center">Tech Stack & Skills</h2>
