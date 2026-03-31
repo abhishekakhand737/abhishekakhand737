@@ -19,8 +19,6 @@
 An AI & Data Science student focused on building a strong foundation in Machine Learning, Data Analysis, and Python development. I'm actively learning core ML concepts, practicing data handling and analysis, and working on small projects to sharpen my problem-solving skills. I use tools like NumPy, Pandas, Matplotlib, Seaborn, Jupyter, and Streamlit to explore and visualize data, with a focus on a continuous, step-by-step growth.
 </p>
 
-<!-- 👇 IMAGE FIXED POSITION -->
-<img align="right" alt="coding" width="105" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
 
 ---
 
@@ -35,6 +33,8 @@ An AI & Data Science student focused on building a strong foundation in Machine 
     </td>
   </tr>
   <tr>
+    <!-- 👇 IMAGE FIXED POSITION -->
+<img align="right" alt="coding" width="105" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
     <td align="center"><b>AI / ML & Data Science</b></td>
     <td>
       <img src="https://img.shields.io/badge/NumPy-FFD600?style=for-the-badge&logo=numpy&logoColor=black"/>
