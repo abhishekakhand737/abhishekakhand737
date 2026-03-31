@@ -21,6 +21,10 @@ An AI & Data Science student focused on building a strong foundation in Machine 
 </p>
 <img align="right" alt="coding" width="105" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
 
+
+
+
+
 ---
 
 <h2 align="center">Tech Stack & Skills</h2>
