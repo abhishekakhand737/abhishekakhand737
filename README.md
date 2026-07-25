@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3000,50:1a1a00,100:0d0d0d&height=200&section=header&text=Abhishek+Akhand&fontSize=40&fontColor=FFD600&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Data+Analyst%20%7C%20Python%20Developer&descAlignY=58&descColor=64b5f6&animation=fadeIn" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD600&center=true&vCenter=true&width=600&lines=Interested+in+ML+%26+Data+Analytics;Python+%7C+NumPy+%7C+Pandas+%7C+Streamlit;Learning+one+model+at+a+time;Turning+data+into+insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=601&size=22&pause=1001&color=FFD600&center=true&vCenter=true&width=600&lines=Interested+in+ML+%26+Data+Analytics;Python+%7C+NumPy+%7C+Pandas+%7C+Streamlit;Learning+one+model+at+a+time;Turning+data+into+insights" alt="Typing SVG" />
 <br/>
 </div>
 
