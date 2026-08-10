@@ -1,135 +1,106 @@
-# Hi, I'm Abhishek Akhand 👋
+<div align="center">
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3000,50:1a1a00,100:0d0d0d&height=201&section=header&text=Abhishek+Akhand&fontSize=40&fontColor=FFD600&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Data+Analyst%20%7C+Python+Developer&descAlignY=58&descColor=64b5f6&animation=fadeIn" />
 
-### B.Tech Artificial Intelligence & Data Science Student
-
-I am an AI & Data Science undergraduate interested in **Data Science, Machine Learning, SQL, and AI-based applications**.
-
-I enjoy learning new technologies, building projects, solving problems, and improving my technical skills.
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=601&size=22&pause=1001&color=FFD600&center=true&vCenter=true&width=600&lines=Interested+in+ML+%26+Data+Analytics;Python+%7C+NumPy+%7C+Pandas+%7C+Streamlit;Learning+one+model+at+a+time;Turning+data+into+insights" alt="Typing SVG" />
+<br/>
+</div>
 
 ---
+
+<div align="center">
 
 ## About Me
 
-- 🎓 B.Tech – Artificial Intelligence & Data Science
-- 💻 Interested in Data Science, Machine Learning & AI
-- 📊 Learning Data Analytics and SQL
-- 🐍 Python enthusiast
-- 🚀 Building practical projects and applications
-- 🌱 Always learning and exploring new technologies
-
----
-
-## Tech Stack
-
-### Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css" />
-</p>
-
-### Data Science & Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-**Libraries & Tools:**
-
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `TensorFlow` `Keras`
-
-### Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-`SQL` `MySQL`
-
-### Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter" />
-</p>
-
----
-
-## Projects
-
-### AI-Based Banking Risk Analysis
-
-An AI-powered banking risk analysis system for customer risk scoring, suspicious transaction detection, and financial analysis.
-
-**Tech:** Python, Machine Learning, FastAPI, Streamlit, MySQL
-
----
-
-### JalTrack – Your Water. Your Voice.
-
-A citizen-reporting platform for reporting water supply issues such as leakages, contamination, no-supply, and low pressure.
-
-**Tech:** FastAPI, PostgreSQL, ML, DBSCAN, Leaflet.js
-
----
-
-### Machine Learning Algorithms
-
-Collection of implementations and experiments covering different Machine Learning concepts and algorithms.
-
-**Tech:** Python, NumPy, Pandas, Scikit-learn
-
----
-
-## GitHub Statistics
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekakhand737&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+An AI & Data Science student focused on building a strong foundation in Machine Learning, Data Analysis, and Python development. I'm actively learning core ML concepts, practicing data handling and analysis, and working on small projects to sharpen my problem-solving skills. I use tools like NumPy, Pandas, Matplotlib, Seaborn, Jupyter, and Streamlit to explore and visualize data, with a focus on a continuous, step-by-step growth.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekakhand737&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
-## GitHub Activity
+<h2 align="center">Tech Stack & Skills</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekakhand737&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## Certifications
-
-- Data Science using Python Bootcamp
-- Azure Machine Learning – Responsible AI
-- Cognifyz Technologies – Data Science Internship
-
----
-
-## Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Data Analytics
-- SQL & Database Management
-- Generative AI
-- Large Language Models
-
----
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://github.com/abhishekakhand737">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-FFD600?style=for-the-badge&logo=python&logoColor=black"/>
+      <img src="https://img.shields.io/badge/SQL-FFD600?style=for-the-badge&logo=mysql&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <!-- 👇 IMAGE FIXED POSITION -->
+    <img align="right" alt="coding" width="105" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
+    <td align="center"><b>AI / ML & Data Science</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NumPy-FFD600?style=for-the-badge&logo=numpy&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Pandas-FFD600?style=for-the-badge&logo=pandas&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Matplotlib-FFD600?style=for-the-badge&logo=python&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Seaborn-FFD600?style=for-the-badge&logo=python&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Developer Toolkit</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-FFD600?style=for-the-badge&logo=git&logoColor=black"/>
+      <img src="https://img.shields.io/badge/GitHub-FFD600?style=for-the-badge&logo=github&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Jupyter-FFD600?style=for-the-badge&logo=jupyter&logoColor=black"/>
+      <img src="https://img.shields.io/badge/VS%20Code-FFD600?style=for-the-badge&logo=visual-studio-code&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Streamlit-FFD600?style=for-the-badge&logo=streamlit&logoColor=black"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
+<h2 align="center">GitHub Statistics</h2>
 
-### "Code. Learn. Build. Repeat."
+<div align="center">
+  <img
+    height="180em"
+    width="495"
+    src="https://github-readme-stats.vercel.app/api?username=abhishekakhand737&show_icons=true&bg_color=0d0d0d&title_color=FFD600&text_color=FFC107&icon_color=FFD600&border_color=FFD600&hide_border=false&count_private=true&include_all_commits=true"
+  />
+  <img
+    height="180em"
+    width="330"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekakhand737&layout=compact&bg_color=0d0d0d&title_color=FFD600&text_color=FFC107&border_color=FFD600&hide_border=false&langs_count=8"
+  />
+</div>
 
-</p>
+---
+
+<h2 align="center">Activity Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekakhand737&bg_color=0d0d0d&color=FFD600&line=FFC107&point=FFD600&area=true&area_color=2a2000&border_color=FFD600&hide_border=false" />
+</div>
+
+---
+
+<h2 align="center">Connect With Me</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD600?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/abhishek-akhand-391a19277)
+[![GitHub](https://img.shields.io/badge/GitHub-FFD600?style=for-the-badge&logo=github&logoColor=black)](https://github.com/abhishekakhand737)
+[![Email](https://img.shields.io/badge/Email-FFD600?style=for-the-badge&logo=gmail&logoColor=black)](mailto:abhishekakhand13@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+"Code. Learn. Build. Repeat."
+
+</div>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3000,50:1a1a00,100:0d0d0d&height=120&section=footer" />
+</div>
+
