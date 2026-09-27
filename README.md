@@ -66,7 +66,7 @@ An AI & Data Science student focused on building a strong foundation in Machine 
   />
   <img
     height="180em"
-    width="330"
+    width="331"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhishekakhand737&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   />
 </div>
