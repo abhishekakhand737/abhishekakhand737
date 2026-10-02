@@ -101,4 +101,4 @@ An AI & Data Science student focused on building a strong foundation in Machine 
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9A7,100:0D0D0D&height=120&section=footer" />
-</div>
+</div> .
