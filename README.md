@@ -73,10 +73,16 @@ An AI & Data Science student focused on building a strong foundation in Machine 
 
 ---
 
-<h2 align="center">Activity Graph</h2>
+<h2 align="center">📊 GitHub Activity Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekakhand737&bg_color=0d0d0d&color=00C9A7&line=6C63FF&point=FF4B91&area=true&area_color=151A30&border_color=6C63FF&hide_border=false" />
+  <a href="https://github.com/abhishekakhand737">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekakhand737&bg_color=0d1117&color=00c9a7&line=6c63ff&point=ffffff&area=true&hide_border=true&custom_title=Abhishek's%20GitHub%20Activity"
+      alt="Abhishek's GitHub Activity Graph"
+      width="100%"
+    />
+  </a>
 </div>
 
 ---
