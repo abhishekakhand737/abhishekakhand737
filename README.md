@@ -3,7 +3,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9A7,100:0D0D0D&height=201&section=header&text=Abhishek+Akhand&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Data+Analyst%20%7C+Python+Developer&descAlignY=58&descColor=FFFFFF&animation=fadeIn" />
 
 <!-- PROFILE VIEWS -->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekakhand737&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -79,12 +78,13 @@ An AI & Data Science student focused on building a strong foundation in Machine 
 
 ---
 
+<!-- GITHUB ACTIVITY GRAPH -->
 <h2 align="center">📊 GitHub Activity Graph</h2>
 
 <div align="center">
   <a href="https://github.com/abhishekakhand737">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekakhand737&bg_color=0d1117&color=00c9a7&line=6c63ff&point=ffffff&area=true&hide_border=true&custom_title=Abhishek's%20GitHub%20Activity"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekakhand737&bg_color=0d1117&color=00C9A7&title_color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=00C9A7&hide_border=true&custom_title=Abhishek%27s%20GitHub%20Activity&days=31"
       alt="Abhishek's GitHub Activity Graph"
       width="100%"
     />
