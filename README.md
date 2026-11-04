@@ -2,6 +2,12 @@
 <!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9A7,100:0D0D0D&height=201&section=header&text=Abhishek+Akhand&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Data+Analyst%20%7C+Python+Developer&descAlignY=58&descColor=FFFFFF&animation=fadeIn" />
 
+<!-- PROFILE VIEWS -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishekakhand737&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=601&size=22&pause=1001&color=00C9A7&center=true&vCenter=true&width=600&lines=Interested+in+ML+%26+Data+Analytics;Python+%7C+NumPy+%7C+Pandas+%7C+Streamlit;Learning+one+model+at+a+time;Turning+data+into+insights" alt="Typing SVG" />
 <br/>
