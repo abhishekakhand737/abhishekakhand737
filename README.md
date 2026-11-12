@@ -2,7 +2,7 @@
 <!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9A7,100:0D0D0D&height=201&section=header&text=Abhishek+Akhand&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Data+Analyst%20%7C+Python+Developer&descAlignY=58&descColor=FFFFFF&animation=fadeIn" />
 
-<!-- PROFILE VIEWS -->
+<!-- PROFILE  VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekakhand737&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 </p>
